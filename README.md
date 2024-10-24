@@ -1,4 +1,5 @@
 # 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+I need to clone my [dotfiles from linux](https://github.com/Rigonkmalk/dotfiles) into Windows.
+
+I used LazyVim because of the installation process in Windows which can be **awful**.
